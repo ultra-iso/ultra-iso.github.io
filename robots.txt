@@ -1,0 +1,7 @@
+User-agent: *
+
+User-agent: Yandex
+
+host: ultra-iso.github.io
+
+Sitemap: https://ultra-iso.github.io/sitemap.xml
